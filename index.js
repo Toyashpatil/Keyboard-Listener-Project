@@ -23,11 +23,11 @@ document.addEventListener("keypress",function(event){
             var audio=new Audio("sounds/t.mp3");
             audio.play()/*alert("Button Pressesd")*/;
             break;
-        case 't':
+        case 'y':
             var audio=new Audio("sounds/y.mp3");
             audio.play()/*alert("Button Pressesd")*/;
             break;
-        case 'y':
+        case 'u':
             var audio=new Audio("sounds/u.mp3");
             audio.play()/*alert("Button Pressesd")*/;
             break;
